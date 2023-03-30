@@ -2,6 +2,8 @@ languageCode = "en-us"
 baseurl = "https://docuapi.netlify.com/"
 title = "DocuAPI Example Site"
 
+canonifyURLs = true
+
 disableKinds = ["taxonomyTerm"]
 
 # Code higlighting settings
