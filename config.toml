@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseurl = "https://gleaming-cendol-0d9b27.netlify.app/"
+baseURL = "https://gleaming-cendol-0d9b27.netlify.app/"
 title = "DocuAPI Example Site"
 
 disableKinds = ["taxonomyTerm"]
