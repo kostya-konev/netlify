@@ -4,4 +4,4 @@ go 1.16
 
 require github.com/bep/docuapi/v2 v2.2.0 // indirect
 
-replace github.com/bep/docuapi/v2 => ../
+replace github.com/bep/docuapi/v2 => /
