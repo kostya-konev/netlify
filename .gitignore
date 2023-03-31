@@ -1,3 +1,5 @@
-/public
+docuapi
+public/
+node_modules
 .hugo_build.lock
-/assets/jsconfig.json
+assets/jsconfig.json
